@@ -79,17 +79,9 @@ experiences:
       time: June 2022 - Dec. 2022
       company: Sogang University, South Korea
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Development of Ultrasound Beamforming System for Various Biomedical and Industrial Applications
+          - Implementation of 64 channel ultrasound imaging system(sponsor: IBULE Photonics)
+          - Designed and implemented an ultrasound beamforming system, utilizing FPGAs, digital pulsers, and analog front-end chips(AFEs). Hardware schematic design was done via the ORCAD Pspice. FPGA control and manipulation was done by VHDL coding, and image data processing was done using MATLAB. Digital Time Gain Control(DTGC) automization using deep learning via VHDL hardware coding. 
 projects:
     title: Projects
     intro: >
