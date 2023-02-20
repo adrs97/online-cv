@@ -82,13 +82,13 @@ experiences:
         Development of Ultrasound Beamforming System for Various Biomedical and Industrial Applications
           - Implementation of 64 channel ultrasound imaging system(sponsor: IBULE Photonics)
           - Designed and implemented an ultrasound beamforming system, utilizing FPGAs, digital pulsers, and analog front-end chips(AFEs). Hardware schematic design was done via the ORCAD Pspice. FPGA control and manipulation was done by VHDL coding, and image data processing was done using MATLAB. Digital Time Gain Control(DTGC) automization using deep learning via VHDL hardware coding. 
-#projects:
-#    title: Projects
-#    intro: >
-#    assignments:
-#      - title: Velocity
-#        link: "#hook"
-#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+projects:
+    title: Honors and Scholarships
+    intro: >
+    assignments:
+      - title: Faculty of Nature Scholarship
+        link: "#hook"
+        tagline: "3 Consecutive Semesters"
 
 #publications:
 #    title: Publications
@@ -99,13 +99,13 @@ experiences:
 #        authors: Donald E. Knuth
 #        conference: Addison-Wesley, 1968
 
-honors and scholarships:
-    title: Honors and Scholarships
-    intro: |
-    assignments:
-      - title: Faculty of Nature Scholarship
-        link: "#"
-        tagline: "3 Consecutive Semesters"
+#honors and scholarships:
+#    title: Honors and Scholarships
+#    intro: |
+#    assignments:
+#      - title: Faculty of Nature Scholarship
+#        link: "#"
+#        tagline: "3 Consecutive Semesters"
 
 skills:
     title: Skills &amp; Proficiency
